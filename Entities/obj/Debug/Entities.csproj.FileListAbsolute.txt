@@ -1,5 +1,0 @@
-C:\Study\Nilesh\Projects\HealthCare\Entities\bin\Debug\Entities.dll
-C:\Study\Nilesh\Projects\HealthCare\Entities\bin\Debug\Entities.pdb
-C:\Study\Nilesh\Projects\HealthCare\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
-C:\Study\Nilesh\Projects\HealthCare\Entities\obj\Debug\Entities.dll
-C:\Study\Nilesh\Projects\HealthCare\Entities\obj\Debug\Entities.pdb

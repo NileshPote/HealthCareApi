@@ -1,0 +1,14 @@
+C:\Study\Nilesh\Projects\HealthCare\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Study\Nilesh\Projects\HealthCare\DataAccess\bin\Debug\DataAccess.dll
+C:\Study\Nilesh\Projects\HealthCare\DataAccess\bin\Debug\DataAccess.pdb
+C:\Study\Nilesh\Projects\HealthCare\DataAccess\bin\Debug\EntityFramework.dll
+C:\Study\Nilesh\Projects\HealthCare\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Study\Nilesh\Projects\HealthCare\DataAccess\bin\Debug\GenericResolver.dll
+C:\Study\Nilesh\Projects\HealthCare\DataAccess\bin\Debug\Unity.Abstractions.dll
+C:\Study\Nilesh\Projects\HealthCare\DataAccess\bin\Debug\GenericResolver.pdb
+C:\Study\Nilesh\Projects\HealthCare\DataAccess\bin\Debug\EntityFramework.xml
+C:\Study\Nilesh\Projects\HealthCare\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Study\Nilesh\Projects\HealthCare\DataAccess\bin\Debug\Unity.Abstractions.pdb
+C:\Study\Nilesh\Projects\HealthCare\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Study\Nilesh\Projects\HealthCare\DataAccess\obj\Debug\DataAccess.dll
+C:\Study\Nilesh\Projects\HealthCare\DataAccess\obj\Debug\DataAccess.pdb
