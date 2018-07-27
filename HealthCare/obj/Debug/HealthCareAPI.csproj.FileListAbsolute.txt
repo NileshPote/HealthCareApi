@@ -1,0 +1,3 @@
+C:\Study\Nilesh\Projects\HealthCare\HealthCare\obj\Debug\HealthCareAPI.csprojResolveAssemblyReference.cache
+C:\Study\Nilesh\Projects\HealthCare\HealthCare\obj\Debug\HealthCare.dll
+C:\Study\Nilesh\Projects\HealthCare\HealthCare\obj\Debug\HealthCare.pdb
